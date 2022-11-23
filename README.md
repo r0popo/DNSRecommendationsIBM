@@ -15,7 +15,7 @@ In the [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio?utm_content=S
 For this project, I created a recommendation system to enhance the user experience and connect users with assets. I applied a number of different methods for making recommendations that can be used for different situations in order to analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they might like
 
 ## File Descriptions<a name="files"></a>
-An available jupyter notebook showcases work related to the development of the recommendation system. The notebook includes exploratory data analysis and a number of different recommendation methods such as rank-based, content-based and collaborative filtering. Markdown cells were used to add context and outline the thought process for individual steps.
+Jupyter notebook available in this repository showcases work related to the development of the recommendation system. The notebook includes exploratory data analysis and a number of different recommendation methods such as rank-based, content-based and collaborative filtering. Markdown cells were used to add context and outline the thought process for individual steps.
 
 data/ directory contains two csv files related to the assets and user-item interactions provided by the IBM Watson Studio.
 
